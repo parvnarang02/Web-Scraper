@@ -1,0 +1,4 @@
+playwright==1.49.0
+aiohttp==3.9.1
+boto3==1.34.0
+psutil==5.9.8
